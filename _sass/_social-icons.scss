@@ -1,5 +1,8 @@
 @mixin social-media-icon($color, $transition){
-  -webkit-transition: $transition;
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  // -webkit-transition: $transition;
   -o-transition: $transition;
   -ms-transition: $transition;
   -moz-transition: $transition;
@@ -59,7 +62,7 @@
   @include social-media-icon($codepen-color, $icon-transition-time);
 }
 
-.fa-rss-square {
+.fa-rss {
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
 }
