@@ -1,6 +1,6 @@
 @mixin social-media-icon($color, $transition){
   display: inline-block;
-  text-rendering: auto;
+  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   // -webkit-transition: $transition;
   -o-transition: $transition;
