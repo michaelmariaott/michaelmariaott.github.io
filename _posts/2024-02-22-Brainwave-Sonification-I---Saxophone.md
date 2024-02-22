@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brainwave Sonification I: Saxophone"
+title: "Brainwave Sonification I - Saxophone"
 author: "Michael Maria Ott"
 categories: projects
 tags: 
