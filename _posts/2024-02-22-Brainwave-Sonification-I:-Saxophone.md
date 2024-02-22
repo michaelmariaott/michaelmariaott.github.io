@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Brainwave Sonification I - Saxophone"
+title: "Brainwave Sonification I  Saxophone"
 author: "Michael Maria Ott"
 categories: projects
 tags: 
-image: 
+image: brain_sonification_1.png
 ---
 
 You can read about this project [here](https://iil.is/news/michaels_brain_sax).
