@@ -7,16 +7,7 @@ tags:
 image: algorithmic_whales.png
 ---
 
-<div class="responsive-video">
-  <iframe
-
-        src="https://www.youtube.com/watch?v=FH43MxcYi8k"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen>
-    </iframe>
-</div>
+<iframe src="https://www.youtube.com/embed/FH43MxcYi8k?si=LnAZfVCDUFPyycIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The three-part composition explores the sound worlds of two rave models (Realtime Audio Variation autoEncoder) trained by the [Intelligent Instruments Lab](https://iil.is/news/ravemodels) on humpback whale songs and water sounds.
 The sound of the soprano saxophone is resynthesised in real time by the humpback whale model, transferring the timbre of the humpback whale songs to the saxophone sound.
